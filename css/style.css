@@ -527,7 +527,7 @@ nav {
         opacity: 0.9;
     }
     .tooltip .tooltiptext {
-        top: 70px;
+        top: 8vh;
         left: -30px;
         font-size: 0.7em;
     }
