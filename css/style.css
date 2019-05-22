@@ -744,3 +744,14 @@ nav {
         font-size: 1.3em;
     }
 }
+
+
+@media only screen and (max-width: 375px) {
+    .box-end {
+        font-size: 0.6em;
+    }
+
+    #box-logo-border {
+        width: 250px;
+    }
+}
