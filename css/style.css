@@ -500,6 +500,9 @@ nav {
 
 
 @media only screen and (max-width: 600px) {
+    body {
+        background-color: #fffadd
+    }
     /* header */
     header{
         margin-bottom: 80px;
@@ -747,6 +750,9 @@ nav {
 
 
 @media only screen and (max-width: 375px) {
+    body {
+        background-color: #fffadd
+    }
     .box-end {
         font-size: 0.6em;
     }
