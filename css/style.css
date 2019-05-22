@@ -638,6 +638,7 @@ nav {
     }
     /* about me */
     .about-border {
+        height: 150vh;
         padding-top: 22%;
         /* height: 100vh; */
     }
@@ -647,6 +648,7 @@ nav {
     }
     
     .about-container {
+        height: 100%;
         color: #333333;
         background: #fffadd;
     }
