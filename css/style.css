@@ -526,6 +526,11 @@ nav {
         z-index: 1;
         opacity: 0.9;
     }
+    .tooltip .tooltiptext {
+        top: 70px;
+        left: -30px;
+        font-size: 0.7em;
+    }
 
     .navbox:hover {
         background-color: #C9403E;
@@ -660,7 +665,7 @@ nav {
 
     .project-box {
         padding: 0;
-        padding-top: 15%;
+        padding-top: 5%;
         padding-bottom: 0;
         background-color: #fffadd;
         color: #C9403E;
@@ -699,9 +704,10 @@ nav {
 
     /* contact box */
     .contact-box {
+        padding-top: 5%;
         color: #C9403E;
         background-color: #fffadd;
-        height: 50vh;
+        height: 40vh;
     }
 
     .contact-box:hover {
