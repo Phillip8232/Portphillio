@@ -131,7 +131,7 @@ nav {
   
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 130px;
     background-color: rgba(0, 0, 0, 0.685);
     color: #fffadd;
     text-align: center;
@@ -588,17 +588,7 @@ nav {
     }
 
 
-    .tooltip .tooltiptext {
-        font-size: 0;
-        width: 0;
-        padding:0;
-        /* tooltip pos */
-        position: absolute;
-        z-index: 1;
-        top: 0;
-        left: 0;
-    }
-      
+
     /* front page */
     .cover {
         padding-top: 12vh;
