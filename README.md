@@ -6,8 +6,17 @@ Git hub -
 
 ### About my portfolio
 
-Purpose 
-To create a attractive website that draws the users attention. 
+**<u>Purpose</u>** 
+The purpose of this website is to show my charisma as well as show my understanding of HTML and CSS to achieve this goal i needed my website to show my abilities and coding experience.
+
+My website will need to be responsive and eye catching as possible it will also need to include;
+
+- An about me.
+- Links to all my social such as twitter, linked in and git hub
+- The projects i have created to showcase my other skills.
+-  A way to contact me.
+
+
 
 Functionality/features
 
