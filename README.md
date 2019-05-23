@@ -1,10 +1,14 @@
-<u>external links</u>
+## Portphillio
+
+**<u>external links</u>**
 
 Portfolio website- <https://portphilio.netlify.com/>
 
 Git hub - <https://github.com/Phillip8232/Portphillio>
 
-## Portphillio
+Trello board - <https://trello.com/b/GkjNGdq3/portfolio>
+
+Mood board - <https://www.pinterest.com.au/akenoami/autumn-types-of-red-and-yellow/>
 
 ### **<u>Purpose</u>** 
 
@@ -15,7 +19,7 @@ My website will need to be responsive and eye-catching as possible it will also 
 - An about me.
 - Links to all my social such as twitter, linked in and git hub
 - The projects i have created to showcase my other skills.
--  A way to contact me.
+-  A way to contact me.https://www.pinterest.com.au/akenoami/autumn-types-of-red-and-yellow/
 
 
 
@@ -23,7 +27,7 @@ My website will need to be responsive and eye-catching as possible it will also 
 
 The different functionalities and features that you can find on this website are;
 
-- Scroll-behaviour set to smooth so when instead of jumping to an id of a page it will now slowly and smoothly move to that section/id of the page.
+- Scroll-behaviour set to smooth so when instead of jumping to an section/id of a page it will now slowly and smoothly move to that section/id of the page.
 - transitions & hovers used to allow smooth hover transition animation.
 - transform: scale & hover to make images bigger when hovered over.
 - Navbar tool tip to allow users to understand where certain icons will take them so they don't need to click them to find out.
@@ -35,13 +39,25 @@ The different functionalities and features that you can find on this website are
 - overflow - used as a way hide or make certain parts of the website responsive.
 - Media query - makes the site look nicer on phone also used to make the site responsive.
 
-### Sitemap
+#### Sitemap
 
-### Screenshots
+![Sitemap architecture](/home/phillip/Desktop/Portphillio/doc/Sitemap architecture.PNG)
 
-### Target audience
+#### Screenshots
 
-### Tech stack
+**Website**
+
+**![Front page ](/home/phillip/Desktop/Portphillio/doc/Front page .png)Phone**
+
+![front-page-phone](/home/phillip/Desktop/Portphillio/doc/front-page-phone.png)
+
+
+
+#### Targeted audience
+
+Targeted towards future recruiters or collaborators.
+
+#### Tech stack
 
 This project I used:
 
