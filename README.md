@@ -19,7 +19,7 @@ My website will need to be responsive and eye-catching as possible it will also 
 - An about me.
 - Links to all my social such as twitter, linked in and git hub
 - The projects i have created to showcase my other skills.
--  A way to contact me.https://www.pinterest.com.au/akenoami/autumn-types-of-red-and-yellow/
+-  A way to contact me.
 
 
 
@@ -67,13 +67,19 @@ This project I used:
 
 ### <u>Design Documentation including</u>
 
-Design process
+<u>**Design process**</u>
 
-Wire frames
+I created a mood board to get idea's of colours or how i wanted to make the website look i then moved to creating the wire frames for website once i finished with the wire frame i moved to building the website as i was building the website i made slight changes to how it was intended to look but kept the layout the same.
 
-personal logo
+I then moved on to creating the design process of the phone when i was happy with it i started to build it as  i was building the website on the phone i also made slight changes and improvement to the design when i was happy i uploaded it to a sub domain called Netlify.
 
-Usability considerations
+I then later sent a couple of website links to my friends as a way to get feed back concerning bugs and issues regarding responsiveness after a few hours of testing they then sent me issues regarding the responsiveness of the website which i later fixed.
+
+<u>**personal logo**</u>
+
+![Logo](/home/phillip/Desktop/Portphillio/doc/Logo.png)
+
+**<u>Usability considerations</u>**
 
 ### Details of planning process including
 
