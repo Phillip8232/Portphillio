@@ -49,7 +49,7 @@ The different functionalities and features that you can find on this website are
 
 **![Front page ](/home/phillip/Desktop/Portphillio/doc/Front page .png)Phone**
 
-![front-page-phone](/home/phillip/Desktop/Portphillio/doc/front-page-phone.png)
+![front-page-phone](https://github.com/Phillip8232/Portphillio/blob/master/doc/Front%20page%20.png)
 
 
 
