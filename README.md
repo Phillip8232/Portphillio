@@ -41,13 +41,13 @@ The different functionalities and features that you can find on this website are
 
 #### Sitemap
 
-![Sitemap architecture]([https://github.com/Phillip8232/Portphillio/blob/master/doc/Sitemap%20architecture.PNG](https://github.com/Phillip8232/Portphillio/blob/master/doc/Sitemap-architecture.PNG))
+![Sitemap architecture](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Sitemap-architecture.PNG>)
 
 #### Screenshots
 
 **Website**
 
-![Front-page]([https://github.com/Phillip8232/Portphillio/blob/master/doc/Front%20page%20.png](https://github.com/Phillip8232/Portphillio/blob/master/doc/Front page .png))
+![Front-page](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Front-page.png>)
 
 **Phone**
 
