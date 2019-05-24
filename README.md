@@ -129,17 +129,92 @@ The website i used for my wireframe was called figma
 
 **<u>Usability considerations</u>**
 
+I did take usability into consideration as of now i know my desktop website is not perfect and will be making changes to website.
+
+I got feedback regarding phone issues because as it was my biggest concerns i hope to have solved all the issues already regarding phone responsiveness and issues.
+
 ### Details of planning process including
 
-Project plan & timeline
+#### <u>**Project plan & timeline**</u>
 
-Screenshots of trello boards(s)
+<u>**Day 1 - Monday**</u>
 
-Short Answer Q&A - include short answers to the following questions
+- Worked on mood-board.
+- Worked on Wire frame.
+- Testing what the website would look like .when creating it
+- then recreated wire-frame until i was happy with the basic layout of the wire-frame.
 
-- Describe key events in the development of the internet from the 1980s to today (max. 150 words)
-- Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
-- Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+<u>**Day 2 - Tuesday**</u>
+
+- Started working on Navigation bar (navbar).
+- Worked on the responsiveness of navbar.
+- Gave navbar feedback so users would know they were hovering over it.
+
+**<u>Day 3 - Wednesday</u>** 
+
+- Made slight changes to navbar 
+- removed darkmode as it is not an important feature (future implantation hopefully).
+- started on front page
+
+<u>**Day 4 - Thursday**</u>
+
+- Made changes to front page
+- Made front page responsive
+- Gave front page hover animation to make it look eye-catching ( planning to make it better and less annoying in the future)
+
+<u>**Day 5 - Friday**</u> 
+
+- Added content into front page
+- Adding social links to front page
+- making containers responsive 
+
+<u>**Day 6 - Saturday**</u>
+
+- Added more section to page such as about / project and contact
+- Added a footer
+- Made all sections responsive
+
+<u>**Day 7 - Monday**</u>
+
+- Worked on mobile responsiveness 
+- Worked on Wire frame for mobile (changes were made along the way to the way it looks) 
+
+**<u>Day 8 - Tuesday</u>**
+
+- Finally finished working on responsiveness on mobile
+- Worked on fixing subtle bugs and issues
+
+<u>**Day 9 - Wednesday**</u>  
+
+- Uploaded it to netlify 
+- Fixed major bug regarding navbar not responding on phone
+- Looked for bugs and flaws myself and tried to fix it.
+- Sent Website to a couple of friends to see if they could find issues regarding bugs on mobile then noted them
+
+<u>**Day 10 - Thursday**</u>
+
+- Fixed all mobile issues that were noted.
+
+#### <u>**Screenshots of trello boards(s)**</u>
+
+
+
+#### <u>Short Answer Q&A - include short answers to the following questions</u>
+
+> 1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+> 2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+> 3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+>
+
+Question 1
+
+
+
+Question 2
+
+
+
+Question 3
 
 
 
