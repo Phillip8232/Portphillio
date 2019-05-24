@@ -51,11 +51,19 @@ The different functionalities and features that you can find on this website are
 
 **Phone**
 
+When you first load up the page on phone.
+
 ![front-page-phone](<https://github.com/Phillip8232/Portphillio/blob/master/doc/front-page-phone.png>)
+
+Scrolling down you will reach the education and tech-stack page which in the future will be changed slightly to allow me to add to tech stack. 
 
 ![phone-education-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-education-section.png>)
 
+The project section on the phone which will also change i will remove the images and replace them with clickable video's.
+
 ![phone-PROJECT-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-PROJECT-section.png>)
+
+contacts section will stay the same unless users are having trouble with it or do not like the way it is handled.
 
 ![phone-contact-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-contact-section.png>)
 
