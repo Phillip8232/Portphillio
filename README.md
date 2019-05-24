@@ -53,7 +53,11 @@ The different functionalities and features that you can find on this website are
 
 ![front-page-phone](<https://github.com/Phillip8232/Portphillio/blob/master/doc/front-page-phone.png>)
 
+![phone-education-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-education-section.png>)
 
+![phone-PROJECT-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-PROJECT-section.png>)
+
+![phone-contact-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/phone-contact-section.png>)
 
 #### Targeted audience
 
