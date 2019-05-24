@@ -213,6 +213,7 @@ I got feedback regarding phone issues because as it was my biggest concerns i ho
 >
 
 <u>Question 1</u>
+
 During the 1980's the national science foundation provided a grant to establish the computer science network the transmission control protocol (TCP) and Internet Protocol (IP) ,emerged as protocol for APANET. 
 
 This became known as internet connection and remains as the standard protocol for the internet. The Domain Name system (DNS) became a thing a few some familiar DNS names were ; .edu, .gov, .com, .mil, .org, .net and .int. this made it easier than remember the designation to web-pages such as 213.236.829.01.
@@ -236,6 +237,7 @@ Servers allow you to access a web page, your computer acts as the client when ac
 
 
 <u>Question</u> 3
+
 Virtual Reality (VR) is a technology which has potential to benefit and contribute to today society given enough time the development of VR  this can leave a huge impact if done right. It could be used for entertainment or it could be used for education or even healthcare where ever this may lead it a  huge leap in technology.
 
 This new found technology will allow new surgeons to train on a virtual human body this could mean more trained surgeons for society as for education it could provide a more visualisation for students. finally as for entertainment side of things it has provided a more immersive experience to see new worlds and allow the entertainment studios to create unimaginable things new worlds new experiences.
