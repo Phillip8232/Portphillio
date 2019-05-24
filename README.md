@@ -47,7 +47,33 @@ The different functionalities and features that you can find on this website are
 
 **Website**
 
+When you first load up the page.
+
 ![Front-page](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Front-page.png>)
+
+when you hover on it.
+
+![website-front-hover](<https://github.com/Phillip8232/Portphillio/blob/master/doc/website-front-hover.png>)
+
+about section
+
+![website-about-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/website-about-me-section.png>)
+
+about section when you hover
+
+![website-hover-about](<https://github.com/Phillip8232/Portphillio/blob/master/doc/website-hover-about.png>)
+
+project section
+
+![website-project-section](<https://github.com/Phillip8232/Portphillio/blob/master/doc/website-project-section.png>)
+
+project hover section
+
+![website-hover-project](<https://github.com/Phillip8232/Portphillio/blob/master/doc/website-hover-project.png>)
+
+contacts section
+
+![getintouch](<https://github.com/Phillip8232/Portphillio/blob/master/doc/getintouch.png>)
 
 **Phone**
 
@@ -88,6 +114,10 @@ I created a mood board to get idea's of colours or how i wanted to make the webs
 I then moved on to creating the design process of the phone when i was happy with it i started to build it as  i was building the website on the phone i also made slight changes and improvement to the design when i was happy i uploaded it to a sub domain called Netlify.
 
 I then later sent a couple of website links to my friends as a way to get feed back concerning bugs and issues regarding responsiveness after a few hours of testing they then sent me issues regarding the responsiveness of the website which i later fixed.
+
+**<u>Wireframes</u>**
+
+
 
 <u>**personal logo**</u>
 
