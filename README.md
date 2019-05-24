@@ -117,6 +117,10 @@ I then later sent a couple of website links to my friends as a way to get feed b
 
 **<u>Wireframes</u>**
 
+The website i used for my wireframe was called figma 
+
+![Wiregrame](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Wiregrame.png>)
+
 
 
 <u>**personal logo**</u>
