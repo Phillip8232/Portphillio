@@ -91,7 +91,7 @@ I then later sent a couple of website links to my friends as a way to get feed b
 
 <u>**personal logo**</u>
 
-![Logo](/home/phillip/Desktop/Portphillio/doc/Logo.png)
+![Logo](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Logo.png>)
 
 **<u>Usability considerations</u>**
 
