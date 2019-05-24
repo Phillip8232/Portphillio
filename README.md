@@ -197,6 +197,12 @@ I got feedback regarding phone issues because as it was my biggest concerns i ho
 
 #### <u>**Screenshots of trello boards(s)**</u>
 
+![Trello-1](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Trello-1.png>)
+
+![Trello-2](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Trello-2.png>)
+
+![Trello-3](<https://github.com/Phillip8232/Portphillio/blob/master/doc/Trello-3.png>)
+
 
 
 #### <u>Short Answer Q&A - include short answers to the following questions</u>
@@ -206,15 +212,33 @@ I got feedback regarding phone issues because as it was my biggest concerns i ho
 > 3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 >
 
-Question 1
+<u>Question 1</u>
+During the 1980's the national science foundation provided a grant to establish the computer science network the transmission control protocol (TCP) and Internet Protocol (IP) ,emerged as protocol for APANET. 
+
+This became known as internet connection and remains as the standard protocol for the internet. The Domain Name system (DNS) became a thing a few some familiar DNS names were ; .edu, .gov, .com, .mil, .org, .net and .int. this made it easier than remember the designation to web-pages such as 213.236.829.01.
+
+William Gibson author of "Neuromancer" was the first to use the term cyberspace. Symbolic.com became the first registered computer corp domain. the number of hosts on the internet exceeds 20,000.  World.std.com becomes the first commercial provider of dial ups.
 
 
 
-Question 2
+<u>Question</u> 2
+
+**Domain**
+Many hosted web domains end with suffix such as .com. Depending on the organisation your provider's domain might end with suffix like .gov for government websites or .edu for schools and . mil for military and lastly .org for non profit organisations.
+
+DNS contain many ip which are normally given a string for the name.
+
+**Web servers**
+The backbone of the world wide web is made of HTML file which are specially-formatted documents that can contain links, as well as images and other media. in addition to HTML it also common for websites to contain CSS or javascript.
+
+Servers allow you to access a web page, your computer acts as the client when accessing a web-page you are request for a website/web-page  the server send  a copy of the document which is than accessible on the client computer.
 
 
 
-Question 3
+<u>Question</u> 3
+Virtual Reality (VR) is a technology which has potential to benefit and contribute to today society given enough time the development of VR  this can leave a huge impact if done right. It could be used for entertainment or it could be used for education or even healthcare where ever this may lead it a  huge leap in technology.
+
+This new found technology will allow new surgeons to train on a virtual human body this could mean more trained surgeons for society as for education it could provide a more visualisation for students. finally as for entertainment side of things it has provided a more immersive experience to see new worlds and allow the entertainment studios to create unimaginable things new worlds new experiences.
 
 
 
